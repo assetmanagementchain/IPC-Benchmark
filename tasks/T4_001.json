@@ -1,0 +1,8 @@
+{
+  "id": "T4_001",
+  "track": "T4",
+  "title": "Constructing a Testable New Dark Matter Model",
+  "input": "提出一个与标准模型兼容但包含新暗物质态的理论框架。",
+  "instructions": "1) 问题拆解；2) 假设列表；3) 推理步骤链；4) 潜在错误来源；5) 可检验预测（≥2）。",
+  "judge_notes": "严查循环论证、自洽性与可检验性。"
+}
