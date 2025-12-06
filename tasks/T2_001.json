@@ -1,0 +1,11 @@
+{
+  "id": "T2_001",
+  "track": "T2",
+  "title": "Isomorphism: Biological Evolution vs Venture Capital Ecosystem",
+  "input": {
+    "system_A": "自然选择：个体变异；环境施压；适应度高者扩张；突变/迁移改变族群结构。",
+    "system_B": "风险投资：初创公司差异；市场环境决定资金流向；高回报公司扩张；融资轮改变行业格局。"
+  },
+  "instructions": "1) 判断是否同构；2) 若是：变量映射 + 不变量；3) 若否：指出破坏同构的结构性因素。",
+  "judge_notes": "注意映射是否一一对应；不变量是否来自结构而非表层比喻。"
+}
