@@ -1,0 +1,24 @@
+Task TEM-001 — Multi-Step Planning Under Constraint
+
+Description:
+Given a complex problem (e.g., “Design a local-first AI assistant architecture”), the model must:
+
+Produce a structured plan
+
+Explicitly identify dependencies
+
+Provide constraints & assumptions
+
+Deliver execution-ready steps
+
+Respect format rules
+
+Scored on:
+
+planning quality
+
+dependency graph correctness
+
+clarity
+
+constraint obedience
