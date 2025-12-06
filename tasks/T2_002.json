@@ -1,0 +1,11 @@
+{
+  "id": "T2_002",
+  "track": "T2",
+  "title": "Isomorphism: Thermodynamic Entropy vs Wealth Inequality Dynamics",
+  "input": {
+    "system_A": "热力学熵：微观随机性推动系统向高熵态演化；需外部输入维持低熵结构。",
+    "system_B": "财富分布：财富随机波动；制度影响再分配效率；缺乏调节时财富趋向集中。"
+  },
+  "instructions": "同 T2_001。",
+  "judge_notes": "看模型是否能识别真正的守恒量/约束层面的同构或差异。"
+}
