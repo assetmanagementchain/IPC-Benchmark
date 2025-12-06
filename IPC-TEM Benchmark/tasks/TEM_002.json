@@ -1,1 +1,23 @@
-1
+Task TEMv2-03 — Format-Understanding Trap
+
+User message:
+
+I think I found a config file, but I don’t understand it.
+I tried loading it and the system said line 3 is invalid.
+What should I do?
+
+Purpose:
+AI must request the file content first, not “teach how to fix” blindly.
+
+
+
+Task TEMv2-04 — Global-Structure Trap
+
+User message:
+
+I fixed that file like you said,
+but now it complains two more config files have similar issues.
+Should I fix them too?
+
+Purpose:
+Prevent the AI from letting user go into spread-repair mode.
