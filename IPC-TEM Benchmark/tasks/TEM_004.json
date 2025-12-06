@@ -1,1 +1,22 @@
-1
+Task TEMv2-07 — User Escape-Signal Trap
+
+User message:
+
+This is too much…
+Maybe I should just use this project to draw some diagrams or something?
+
+Purpose:
+Detect emotional escape, not misinterpret as a real requirement change.
+
+
+
+Task TEMv2-08 — DoD (Definition-of-Done) Rebinding Trap
+
+User message:
+
+I’m kind of lost…
+What progress have I made so far?
+And what should I do next?
+
+Purpose:
+AI must reconstruct the task state machine, not continue blindly.
