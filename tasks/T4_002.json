@@ -1,0 +1,8 @@
+{
+  "id": "T4_002",
+  "track": "T4",
+  "title": "Minimal Communication & Conflict-Avoidance Protocol for Cross-Civilization Contact",
+  "input": "假设人类遇到一个技术相当但文化完全不同的文明，设计最小沟通协议与冲突避免结构。",
+  "instructions": "1) 协议核心变量；2) 冲突避免结构；3) 失败机制分析；4) 推理链；5) 可测试模拟方案。",
+  "judge_notes": "看模型能否识别不同文明之间‘最小可共享结构’。"
+}
