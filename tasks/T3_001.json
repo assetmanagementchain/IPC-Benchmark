@@ -1,0 +1,19 @@
+{
+  "id": "T3_001",
+  "track": "T3",
+  "title": "Rule Reconstruction from Iterated Game Data",
+  "input": {
+    "observations_table_excerpt": [
+      {"round": 1, "A": "C", "B": "C", "A_gain": 3, "B_gain": 3},
+      {"round": 2, "A": "C", "B": "D", "A_gain": 0, "B_gain": 5},
+      {"round": 3, "A": "D", "B": "D", "A_gain": 1, "B_gain": 1},
+      {"round": 4, "A": "C", "B": "C", "A_gain": 3, "B_gain": 3},
+      {"round": 5, "A": "D", "B": "C", "A_gain": 5, "B_gain": 0},
+      {"round": 6, "A": "D", "B": "D", "A_gain": 1, "B_gain": 1},
+      {"round": 7, "A": "C", "B": "C", "A_gain": 3, "B_gain": 3}
+    ],
+    "note": "正式题目包含 40 条以上记录与隐藏测试样本。"
+  },
+  "instructions": "1) 推断 A 的最小策略规则（≤10 条）；2) 规则树；3) 预测回合 41–45；4) 指出潜在噪音/异常。",
+  "judge_notes": "评分看规则紧凑性、可解释性以及预测方向是否与隐藏样本一致。"
+}
